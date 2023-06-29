@@ -1,0 +1,22 @@
+body
+{
+    background-color: #E4FDE1;
+}
+h3
+{
+font-size: 20px;
+width: 80%;
+border-radius: 8px;
+height: 55px;
+margin: 15px;
+background-color:#8ACB88;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+canvas
+{
+    border: 5px dotted #8ACB88;
+    border-radius: 8px;
+    background-color: white;
+}
